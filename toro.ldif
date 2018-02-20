@@ -1,0 +1,5 @@
+dn: dc=toro,dc=io
+objectClass: dcObject
+objectClass: organization
+dc: toro
+o : toro
